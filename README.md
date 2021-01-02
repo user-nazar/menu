@@ -1,4 +1,4 @@
-# web_labs_3-4
+# web_labs_3_and_4
 
 # Tasks:
 
